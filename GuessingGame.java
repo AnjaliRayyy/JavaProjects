@@ -58,7 +58,6 @@ class GuessingGame
             System.out.println("The Number was : "+n);
             System.out.println("Better Luck Next Time :)");
            
-            //System.out.println("Closest Guess : ");
         }
     }
 }
